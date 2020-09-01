@@ -377,7 +377,7 @@ In the [demo.ps1](https://github.com/lgeurts/azure-devops-pipeline/blob/master/d
 
 ## Authors
 
-The initial setup and this file was created by [Luc Geurts](https://lgeurts.github.io) and has contributions from [Paulo Schwab Rocha](https://github.com/pschwab1).
+The initial setup and this file were created by [Luc Geurts](https://lgeurts.github.io). Thx to [Paulo Schwab Rocha](https://github.com/pschwab1) for his excellent contributions.
 
 <3
 
