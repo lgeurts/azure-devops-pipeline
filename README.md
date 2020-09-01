@@ -371,7 +371,7 @@ This tutorial is meant to give you a sneak peak into building a real Azure DevOp
 * git config --global http.sslBackend openssl
 * git config --global http.sslVerify false
 
-In the [demo.ps1](https://github.com/Huisman-Equipment/hsle-azure-pipelines/blob/master/demo.ps1) PowerShell script you will find all commands mentioned in this tutorial.
+In the [demo.ps1](https://github.com/lgeurts/azure-devops-pipeline/blob/master/demo.ps1) PowerShell script you will find all commands mentioned in this tutorial.
 
                         <kbd>[WARNING]: THIS TEMPLATE IS ONLY AVAILABLE ON APPROVAL BY YOUR MANAGER!</kbd>
 
